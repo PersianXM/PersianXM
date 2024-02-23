@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **eBIPC**
 
-- 🌱 I’m currently learning **Python and Data since**
+- 🌱 I’m currently learning **Python and Data Science**
 
-- 💬 Ask me about **Python and Data since**
+- 💬 Ask me about **Python and Data Science**
 
 - 📫 How to reach me **ali.rashedi@gmail.com**
 
