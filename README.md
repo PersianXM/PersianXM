@@ -1,3 +1,4 @@
+![logo](https://github.com/PersianXM/PersianXM/blob/main/header.png)
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">From IT Manager to Data Science Enthusiast: Blending Expertise for Impact</h3>
 
